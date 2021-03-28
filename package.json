@@ -1,0 +1,22 @@
+{
+  "name": "mock-letters",
+  "version": "0.0.1",
+  "description": "mock letters for educational project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.21",
+    "nodemailer": "^6.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.23.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
