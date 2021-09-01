@@ -47,9 +47,10 @@ const init = () => {
 
   const run = async () => {
     for (let i = 1; i < mail.length; i += 1) {
-      send(transporter, mail[i]).catch(console.error);
-      console.log(new Date());
-      await timer(900000);
+      send(transporter, mail[i - 1]).catch(console.error);
+      if (i % 2 === 0) {
+        await timer(900000);
+      }
     }
   };
 
