@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "description": "mock letters for educational project",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
   "type": "module",
   "author": "",
   "license": "ISC",
