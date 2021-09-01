@@ -1,3 +1,4 @@
+/* eslint-disable no-await-in-loop */
 import nodemailer from 'nodemailer';
 import { readFileSync } from 'fs';
 import dotenv from 'dotenv';
@@ -22,16 +23,7 @@ const init = () => {
     },
   });
 
-  // const transporter = nodemailer.createTransport({
-  //   host: 'smtp.ethereal.email',
-  //   port: 587,
-  //   auth: {
-  //     user: 'macie.haag93@ethereal.email',
-  //     pass: '2YRDbGRwvf56MjXFvu',
-  //   },
-  // });
-
-  const mail = _.shuffle(JSON.parse(readFileSync('./mocks/data.json')).map((obj) => {
+  const mail = _.shuffle(JSON.parse(readFileSync('./mocks/beginners-data.json')).map((obj) => {
     const content = readFileSync(obj.contentPath, 'utf-8');
     const data = {
       from: process.env.SENDER,
@@ -54,10 +46,10 @@ const init = () => {
   }));
 
   const run = async () => {
-    for (let i = 0; i < mail.length; i += 1) {
+    for (let i = 1; i < mail.length; i += 1) {
       send(transporter, mail[i]).catch(console.error);
-      // eslint-disable-next-line no-await-in-loop
-      await timer(300000);
+      console.log(new Date());
+      await timer(900000);
     }
   };
 

@@ -1,0 +1,9 @@
+<p>Все ведь верно, в чем ошибка?</p>
+<pre>
+def show_meteo(temperature, weather):
+    print(f'Сейчас {weather}, на градуснике {str(temperature)}.')
+
+
+show_meteo(24, 'облачно')
+</pre>
+<a href='https://praktikum.yandex.ru/trainer/backend-developer/lesson/4915a254-64a1-48ba-b25e-f246619e05bc/task/06932456-8ede-46a8-8cd7-b55e1b20cc2f/'>Link</a>

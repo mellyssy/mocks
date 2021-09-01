@@ -4,5 +4,3 @@
 coverage
 .vscode
 .DS_Store
-/mocks/
-.env

@@ -1,0 +1,14 @@
+<p>привет! в разделе 7 переменные и типы во второй задаче необходимо сложить шаги за сегодня и вчера.пишу</p>
+<pre>
+вылет ошибку
+steps_today = 6783
+steps_yesterday = 8452
+
+steps_sum = steps_today + steps_yesterday
+
+print('Сколько шагов сделал Геннадий за два дня?')
+print(steps_sum)
+steps_sum =
+</pre>
+
+<a href='https://praktikum.yandex.ru/trainer/backend-developer/lesson/303df070-3287-484c-b982-3d9792ff4677/task/bc057867-ec42-42e5-ae95-f4bf3638f2f0/'>Link</a>

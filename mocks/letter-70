@@ -1,0 +1,11 @@
+<p>добрый день</p>
+<p>в разделе №2 циклы в примере с счеталочкой</p>
+<p>почему for i</p>
+<p>откуда эта ай появилась?</p>
+<p>и ниже в теле цикла "bunny_counter +="</p>
+<p>+= str(i) что дает, в частности, как я понимаю</p>
+<p>функции bunny_counter дано значение от 1 до 5</p>
+<p>ай тогда это как неизвестная?</p>
+<p>а равно после плюс что дает?</p>
+
+<a href='https://praktikum.yandex.ru/trainer/python-developer-plus/lesson/cdac84fd-8d7d-4feb-bbb4-cb6cf59ada70/'>Link</a>

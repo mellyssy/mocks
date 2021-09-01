@@ -1,0 +1,6 @@
+<p>def print_time(hour, minute, second):</p>
+<p>print(f'На часах {hour}: {minute}: {second}')# аргумент должен содержать f-строку</p>
+<p></p>
+<p></p>
+<p>print_time('19', '28', '06')</p>
+<a href='https://praktikum.yandex.ru/trainer/backend-developer/lesson/3828fc2d-6030-4853-835c-aee39545ac2c/task/86f0c05c-5bea-4d3e-afc8-af08273bb47e/'>Link</a>

@@ -1,0 +1,12 @@
+<pre>import random  # импорт модуля random
+
+# функция randint() генерирует случайное целое число в заданном диапазоне
+messages_count = random.randint(0, 5)
+
+if messages_count > 0:
+    print('Новых сообщений: {значение переменной messages_count')
+else:
+    print('У вас нет новых сообщений')
+</pre>
+
+<a href='https://praktikum.yandex.ru/trainer/backend-developer/lesson/881ce14f-e458-4751-9534-149b47bea0c7/task/1e25c53c-8aff-4262-9e0f-16b685c9f6b7/'>Link</a>

@@ -1,0 +1,98 @@
+[
+  {
+    "subject": "Аналитик данных, тема 2, урок 8, задача 1",
+    "contentPath": "./mocks/letter-51",
+    "filename": "letter-51.png",
+    "filepath": "./mocks/letter-51.png"
+  },
+  {
+    "subject": "Аналитик данных, тема 2, урок 14, задача 1",
+    "contentPath": "./mocks/old/letter-11",
+    "filename": "analytics-2-14-1-l11.png",
+    "filepath": "./mocks/old/analytics-2-14-1-l11.png"
+  },
+  {
+    "subject": "Аналитик данных, тема 3, урок 2",
+    "contentPath": "./mocks/old/letter-6",
+    "filename": "analytics-3-2.png",
+    "filepath": "./mocks/old/analytics-3-2.png"
+  },
+  {
+    "subject": "Аналитик данных, тема 4, урок 2, задача 1",
+    "contentPath": "./mocks/letter-42",
+    "filename": "letter-42.png",
+    "filepath": "./mocks/letter-42.png"
+  },
+  {
+    "subject": "Аналитик данных, тема 4, урок 3, задача 3",
+    "contentPath": "./mocks/letter-43",
+    "filename": "letter-43.png",
+    "filepath": "./mocks/letter-43.png"
+  },
+  {
+    "subject": "Аналитик данных, тема 4, урок 5 (вопрос по теории)",
+    "contentPath": "./mocks/letter-49",
+    "filename": "",
+    "filepath": ""
+  },
+  {
+    "subject": "Аналитик данных, тема 4, урок 8, задача 2",
+    "contentPath": "./mocks/letter-44",
+    "filename": "",
+    "filepath": ""
+  },
+  {
+    "subject": "Аналитик данных, тема 4, урок 9, задача 1",
+    "contentPath": "./mocks/letter-45",
+    "filename": "letter-45.png",
+    "filepath": "./mocks/letter-45.png"
+  },
+  {
+    "subject": "Основы Python, тема 2, урок 4, задача 4",
+    "contentPath": "./mocks/letter-26",
+    "filename": "letter-26.png",
+    "filepath": "./mocks/letter-26.png"
+  },
+  {
+    "subject": "Основы Python, тема 2, урок 6, задача 2",
+    "contentPath": "./mocks/letter-27",
+    "filename": "letter-27.png",
+    "filepath": "./mocks/letter-27.png"
+  },
+  {
+    "subject": "Основы Python, тема 2, урок 8, задача 2",
+    "contentPath": "./mocks/letter-28",
+    "filename": "",
+    "filepath": ""
+  },
+  {
+      "subject": "Основы Python, тема 2, урок 8, задача 2",
+      "contentPath": "./mocks/letter-1",
+      "filename": "letter-1.png",
+      "filepath": "./mocks/letter-1.png"
+  },
+  {
+      "subject": "Основы Python, тема 3, урок 2, задача 2",
+      "contentPath": "./mocks/letter-29",
+      "filename": "letter-29.png",
+      "filepath": "./mocks/letter-29.png"
+  },
+  {
+    "subject": "Основы Python, тема 3, урок 3, задача 1",
+    "contentPath": "./mocks/letter-72",
+    "filename": "letter-72.png",
+    "filepath": "./mocks/letter-72.png"
+  },
+  {
+    "subject": "Основы Python, тема 3, урок 7, задача 1",
+    "contentPath": "./mocks/letter-76",
+    "filename": "letter-76.png",
+    "filepath": "./mocks/letter-76.png"
+  },
+  {
+    "subject": "Основы Python, тема 3, урок 5, задача 1",
+    "contentPath": "./mocks/letter-73",
+    "filename": "letter-73.png",
+    "filepath": "./mocks/letter-73.png"
+  }
+]

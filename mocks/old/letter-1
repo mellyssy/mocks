@@ -1,0 +1,24 @@
+<p>Привет!</p>
+<p>Помогите решить задачу :(</p>
+<pre>total_web = 10
+total_speakers = 7539
+ 
+chinese_speakers = 1107
+chinese_web_part = 0.017
+ 
+english_speakers = 1121
+english_web_part = 0.539
+ 
+russian_speakers = 264.3
+russian_web_part = 0.061
+ 
+chinese_speakers_part = chinese_speakers / total_speakers
+print('Доля людей, говорящих на китайском:', chinese_speakers_part)
+ 
+english_speakers_part = english_speakers / total_speakers
+print('Доля людей, говорящих на англиском:', english_speakers_part)
+ 
+russian_speakers_part = russian_speakers / total_speakers
+print('Доля людей, говорящих на русском:', russian_speakers_part)</pre>
+
+<a href='https://praktikum.yandex.ru/trainer/data-analyst/lesson/5a0b77b8-f9cb-4413-bbbc-1a3b5e68861e/task/088ba275-7a5e-4707-9439-2a5ef0f5ecde/'>Link</a>

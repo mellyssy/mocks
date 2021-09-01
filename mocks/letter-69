@@ -1,0 +1,9 @@
+<p>добрый день. 3. Диапазоны от и до Задача 1</p>
+<p>код:</p>
+<p>for i in range(1,5):</p>
+<p>print('Я расправлюсь с задачей', str(i))</p>
+<p></p>
+<p>print('Я всех победю!')</p>
+<p>ошибка: В print после текстового фрагмента нужно вывести значение переменной-счётчика</p>
+<p>вроде как указано значение.</p>
+<a href='https://praktikum.yandex.ru/trainer/backend-developer/lesson/664b583b-9a61-4cae-a4af-bc32bff574bb/'>Link</a>
