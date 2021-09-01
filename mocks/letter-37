@@ -1,9 +1,0 @@
-<p>здравствуйте!</p>
-<pre>
-Traceback (most recent call last):
-File "main.py", line 1, in <module>
-print (128.3 - 128.2) / 128.3
-TypeError: unsupported operand type(s) for /: 'NoneType' and 'float'
-</pre>
-<p>подскажите, что значит эта ошибка, пожалуйста</p>
-<a href='https://praktikum.yandex.ru/trainer/data-analyst/lesson/bb3ff463-8ada-4850-86a1-3b0ebca17488/task/ebb14c0d-4eea-48cb-88e3-0a357b0759cd/'>Link</a>

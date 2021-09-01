@@ -1,7 +1,7 @@
 /* eslint-disable no-await-in-loop */
 import nodemailer from 'nodemailer';
 import { readFileSync } from 'fs';
-// import dotenv from 'dotenv';
+import dotenv from 'dotenv';
 import _ from 'lodash';
 
 const timer = (ms) => new Promise((res) => setTimeout(res, ms));
@@ -12,7 +12,7 @@ const send = async (transporter, mail) => {
 };
 
 const init = () => {
-  // dotenv.config();
+  dotenv.config();
   const transporter = nodemailer.createTransport({
     host: process.env.HOST,
     port: parseInt(process.env.PORT, 10),
