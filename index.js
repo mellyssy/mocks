@@ -50,6 +50,8 @@ const init = () => {
       send(transporter, mail[i - 1]).catch(console.error);
       if (i % 2 === 0) {
         await timer(900000);
+      } else {
+        await timer(60000);
       }
     }
   };
