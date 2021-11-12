@@ -23,7 +23,7 @@ const init = () => {
     },
   });
 
-  const mail = _.shuffle(JSON.parse(readFileSync('./mocks/beginners-data.json')).map((obj) => {
+  const mail = _.shuffle(JSON.parse(readFileSync('./mocks/data-3.json')).map((obj) => {
     const content = readFileSync(obj.contentPath, 'utf-8');
     const data = {
       from: process.env.SENDER,
